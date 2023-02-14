@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <quickDAQ.h>
 
-int main()
+int main(void)
 {
 
     void *context = zmq_ctx_new();
