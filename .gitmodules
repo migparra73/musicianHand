@@ -1,6 +1,3 @@
-[submodule "quickDAQ"]
-	path = quickDAQ
-	url = git@github.com:solaremperor/quickDAQ.git
 [submodule "myosyn"]
 	path = myosyn
 	url = git@github.com:solaremperor/myosyn.git
