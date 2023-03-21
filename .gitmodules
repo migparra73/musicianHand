@@ -4,3 +4,6 @@
 [submodule "tsLogger"]
 	path = tsLogger
 	url = git@github.com:solaremperor/tsLogger.git
+[submodule "RT-bridge"]
+	path = RT-bridge
+	url = git@github.com:silicondosa/RT-bridge.git
